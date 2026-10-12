@@ -9,7 +9,7 @@ from fpdf import FPDF
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8604415613:AAF_bKuBCQAaB3j1gYSQrriYjIWNj7JQF6I"
 
 # ─── Vulnerability Checks ───────────────────────────────────────────
 
